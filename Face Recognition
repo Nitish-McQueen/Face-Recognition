@@ -42,7 +42,7 @@ print("Samples are collected")
     
         
     
-MODEL CREATION & TRAINING
+2.MODEL CREATION & TRAINING
 
 
 import cv2
