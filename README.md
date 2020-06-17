@@ -1,4 +1,4 @@
-In this Face Recognition model you can able to detect the face in live web camera and recognise the percentage of matching face of the existing face.
+In this Face Recognition model, you can able to detect the face in a live web camera and recognize the percentage of matching face with the existing face.
 
 Steps:
 1. Capture photos
